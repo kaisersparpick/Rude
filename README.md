@@ -41,6 +41,7 @@ Then the answer is **NO**.
 Are your conditions nested (or deeply nested)? \
 Are your conditions likely to change? \
 Is your cyclomatic complexity index too high? \
+Do you want to load the control-flow logic dynamically? \
 Does your application need a way to store the state or position in a complex workflow?
 
 Then the answer is **YES**.
@@ -70,7 +71,11 @@ Then the answer is **YES**.
 
 ## Examples
 
-Although Rude is a *pattern*, you can find a couple of actual implementations here
+Although Rude is a *pattern*, you can find a few actual implementations here
 
   * [Rude.Net](https://github.com/kaisersparpick/Rude.Net) -- a C# imlementation of Rude
   * [Rude.js](https://github.com/kaisersparpick/Rude.js) -- a JavaScript (ES6) imlementation of Rude
+  * Python (soon)
+  * Ruby (soon)
+  * Perl (soon)
+  * PHP (soon)
