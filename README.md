@@ -73,8 +73,8 @@ Then the answer is **YES**.
 
 Although Rude is a *pattern*, you can find a few actual implementations here
 
-  * [Rude.Net](https://github.com/kaisersparpick/Rude.Net) -- a C# imlementation of Rude
-  * [Rude.js](https://github.com/kaisersparpick/Rude.js) -- a JavaScript (ES6) imlementation of Rude
+  * [Rude.Net](https://github.com/kaisersparpick/Rude.Net) -- a C# implementation of Rude
+  * [Rude.js](https://github.com/kaisersparpick/Rude.js) -- a JavaScript (ES6) implementation of Rude
   * Python (soon)
   * Ruby (soon)
   * Perl (soon)
