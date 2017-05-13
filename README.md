@@ -76,6 +76,6 @@ Although Rude is a *pattern*, you can find a few actual implementations here
   * [Rude.Net](https://github.com/kaisersparpick/Rude.Net) -- a C# implementation of Rude
   * [Rude.js](https://github.com/kaisersparpick/Rude.js) -- a JavaScript (ES6) implementation of Rude
   * [Rude.pl](https://github.com/kaisersparpick/Rude.pl) -- a Perl implementation of Rude
-  * Python (soon)
+  * [Rude.py](https://github.com/kaisersparpick/Rude.py) -- a Python implementation of Rude
   * Ruby (soon)
   * PHP (soon)
