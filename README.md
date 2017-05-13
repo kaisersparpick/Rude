@@ -38,13 +38,13 @@ Can you implement your conditions in the form of *simple*
 
 Then the answer is **NO**. 
 
-Are your conditions nested (or deeply nested)? \
-Are your conditions likely to change? \
-Is your cyclomatic complexity index too high? \
-Do you want to load the control-flow logic dynamically? \
-Does your application need a way to store the state or position in a complex workflow?
+ - Are your conditions nested (or deeply nested)?
+ - Are your conditions likely to change?
+ - Is your cyclomatic complexity index too high?
+ - Do you want to load the control-flow logic dynamically?
+ - Does your application need a way to store the state or position in a complex workflow?
 
-Then the answer is **YES**.
+Then the answer is probably **YES**.
 
 
 ## Why?
