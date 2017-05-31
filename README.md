@@ -71,11 +71,13 @@ Then the answer is probably **YES**.
 
 ## Examples
 
-Although Rude is a *pattern*, you can find a few actual implementations here
+Although Rude is a *pattern*, you can find dome actual implementations here
 
-  * [Rude.Net](https://github.com/kaisersparpick/Rude.Net) -- a C# implementation of Rude
-  * [Rude.js](https://github.com/kaisersparpick/Rude.js) -- a JavaScript (ES6) implementation of Rude
-  * [Rude.pl](https://github.com/kaisersparpick/Rude.pl) -- a Perl implementation of Rude
-  * [Rude.py](https://github.com/kaisersparpick/Rude.py) -- a Python implementation of Rude
-  * [Rude.php](https://github.com/kaisersparpick/Rude.php) -- a PHP implementation of Rude
-  * Ruby (soon)
+| language   | repo                                                   |
+| ---------- | ------------------------------------------------------ |
+| C#         | [Rude.Net](https://github.com/kaisersparpick/Rude.Net) |
+| JavaScript | [Rude.js](https://github.com/kaisersparpick/Rude.js)   |
+| Python     | [Rude.py](https://github.com/kaisersparpick/Rude.py)   |
+| Perl       | [Rude.pl](https://github.com/kaisersparpick/Rude.pl)   |
+| PHP        | [Rude.php](https://github.com/kaisersparpick/Rude.php) |
+| Ruby       | [Rude.rb](https://github.com/kaisersparpick/Rude.rb)   |
