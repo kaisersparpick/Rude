@@ -71,7 +71,7 @@ Then the answer is probably **YES**.
 
 ## Examples
 
-Although Rude is a *pattern*, you can find dome actual implementations here
+Although Rude is a *pattern*, you can find some actual implementations here
 
 | language   | repo                                                   |
 | ---------- | ------------------------------------------------------ |
