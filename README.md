@@ -79,5 +79,6 @@ Although Rude is a *pattern*, you can find some actual implementations here
 | JavaScript | [Rude.js](https://github.com/kaisersparpick/Rude.js)   |
 | Python     | [Rude.py](https://github.com/kaisersparpick/Rude.py)   |
 | Perl       | [Rude.pl](https://github.com/kaisersparpick/Rude.pl)   |
+| Perl6      | [Rude.pl6](https://github.com/kaisersparpick/Rude.pl6) |
 | PHP        | [Rude.php](https://github.com/kaisersparpick/Rude.php) |
 | Ruby       | [Rude.rb](https://github.com/kaisersparpick/Rude.rb)   |
