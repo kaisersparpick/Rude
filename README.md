@@ -77,6 +77,7 @@ Although Rude is a *pattern*, you can find some actual implementations here
 | ---------- | ------------------------------------------------------ |
 | C#         | [Rude.Net](https://github.com/kaisersparpick/Rude.Net) |
 | JavaScript | [Rude.js](https://github.com/kaisersparpick/Rude.js)   |
+|            | npm package with added features [rudejs](https://github.com/kaisersparpick/rudejs) |
 | Python     | [Rude.py](https://github.com/kaisersparpick/Rude.py)   |
 | Perl       | [Rude.pl](https://github.com/kaisersparpick/Rude.pl)   |
 | Perl6      | [Rude.pl6](https://github.com/kaisersparpick/Rude.pl6) |
